@@ -17,6 +17,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+```python
 import math
 
 # Input values
@@ -78,6 +79,7 @@ else:
     print("\nWarning! System is unstable because λ ≥ cμ")
 
 print("------------------------------------------------------------")
+```
 
 ## Output :
 <img width="638" height="348" alt="image" src="https://github.com/user-attachments/assets/d8c8469d-4ac7-4f3c-b63a-d63e5a8f92ad" />
